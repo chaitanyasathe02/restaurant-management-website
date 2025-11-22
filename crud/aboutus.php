@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RESTAURANT ONLINE TABLE BOOKING WEBSITE</title>
+<link rel="stylesheet" href="style5.css">
+
+</head>
+<body>
+	<!ALL THE PART BELOW THIS IS FOR RESERVATION PAGE>
+<header>
+
+<img src='Logo.jpg' class="logo">
+<nav class="navigation">
+
+<a href="login.html">Home</a>
+<a href="#">About us</a>
+<a href="#">Contact us</a>
+<button class="btnLogin-popup">LOGIN</button>
+</nav>
+</header>
+<div id="chef">
+	<h1 id="section">CHEFS</h1>
+	<div class="chef_row">
+		<div class="chef_col">
+			<div id="img">
+				<img src="1.png">
+				<h4>avinash sharma</h4>
+			</div>
+		</div>
+
+		<div class="chef_col">
+			<div id="img">
+				<img src="2.png">
+				<h4>vishnu meheta</h4>
+			</div>
+		</div>
+
+		<div class="chef_col">
+			<div id="img">
+				<img src="3.png">
+				<h4>aditya singh</h4>
+			</div>
+		</div>
+
+	</div>	
+</div>
